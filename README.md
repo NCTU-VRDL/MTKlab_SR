@@ -9,7 +9,7 @@
 See [inference.ipynb](./inference.ipynb)
 
 <div align="center">
-    <img src="./images/butterfly.jpg" width="400" />
+    <img src="./images/butterfly.jpg" width="1000" />
 </div>
 
 ## Training
