@@ -1,6 +1,7 @@
 torch==1.8.1
 h5py==3.1.0
 spicy
+scikit-image
 opencv-python
 imageio
 matplotlib
